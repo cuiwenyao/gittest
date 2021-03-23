@@ -1,0 +1,4 @@
+file
+.*
+!.gitignore
+!file1
